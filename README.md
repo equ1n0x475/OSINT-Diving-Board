@@ -19,7 +19,8 @@ Step 2 - Click into settings:
 
 Step 3 - Open 'on startup' tab: 
 
-<img width="309" alt="image" src="https://github.com/user-attachments/assets/1efc7b39-8110-4f12-99af-7d3c9290b913">
+![image](https://github.com/user-attachments/assets/6fc68888-8aa0-4127-b6db-593118dabfa8)
+
 
 
 Step 4 - click on 'Open a specific page or set of pages': 
