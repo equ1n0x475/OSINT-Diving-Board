@@ -28,7 +28,7 @@ Step 4 - click on 'Open a specific page or set of pages':
 ![image](https://github.com/user-attachments/assets/c89a69fa-0fb8-4830-bc79-d4ee1c7f69b8)
 
 
-Step 5 - Paste OSINT Diving Board link into text box: 
+Step 5 - Click on 'add new page' and paste OSINT Diving Board link into text box: 
 
 ![image](https://github.com/user-attachments/assets/cd374ac3-4904-475a-ac15-89e34d095d5d)
 
