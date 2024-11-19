@@ -5,7 +5,13 @@ The OSINT Diving Board is available here: https://start.me/p/b5eyMQ/osint-diving
 
 
 
-How to set the OSINT Diving Board as the start up page on Chrome:
+
+
+
+
+
+
+**How to set the OSINT Diving Board as the start up page on Chrome:**
 
 Step 1 - Navigate to the three dots on the top right of the browser window: 
 
